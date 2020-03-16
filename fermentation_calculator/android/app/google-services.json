@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346226460647",
+    "firebase_url": "https://fermical-c3420.firebaseio.com",
+    "project_id": "fermical-c3420",
+    "storage_bucket": "fermical-c3420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346226460647:android:dab861cef6b03783d95f42",
+        "android_client_info": {
+          "package_name": "com.helix.fermentation_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346226460647-cugrsisfqoacuro5ap1puipu0efdhurq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helix.fermentation_calculator",
+            "certificate_hash": "e3eb7fa9f4e6060b966841d207da3f05a8ec977e"
+          }
+        },
+        {
+          "client_id": "346226460647-l2lpqbh9b5s7cbe6lcpca1a2pa54inbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKtzhoZWKBXMl3Lf6xzduA3htIDX44nkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346226460647-l2lpqbh9b5s7cbe6lcpca1a2pa54inbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
